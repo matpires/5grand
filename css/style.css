@@ -46,13 +46,13 @@ body {
 }
 
 a {
-  color: #F94D0B;
+  color: #C1DC22;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
 }
 a:hover, a:active, a:focus {
-  color: #F94D0B;
+  color: #C1DC22;
   outline: none;
   text-decoration: none;
 }
@@ -70,17 +70,17 @@ h1, h2, h3, h4, h5, h6, figure {
 
 ::-webkit-selection {
   color: #fff;
-  background: #F94D0B;
+  background: #C1DC22;
 }
 
 ::-moz-selection {
   color: #fff;
-  background: #F94D0B;
+  background: #C1DC22;
 }
 
 ::selection {
   color: #fff;
-  background: #F94D0B;
+  background: #C1DC22;
 }
 
 #fh5co-container {
@@ -165,7 +165,7 @@ h1, h2, h3, h4, h5, h6, figure {
   display: inline-block;
   zoom: 1;
   *display: inline;
-  color: #F94D0B;
+  color: #C1DC22;
   padding-left: 10px;
   padding-right: 10px;
 }
@@ -229,14 +229,14 @@ form label {
 }
 .display-t .display-tc .btn {
   padding: 15px 20px;
-  background: #F94D0B !important;
+  background: #C1DC22 !important;
   color: #fff;
   border: none !important;
   font-size: 14px;
   text-transform: uppercase;
 }
 .display-t .display-tc .btn:hover {
-  background: #F94D0B !important;
+  background: #C1DC22 !important;
   -webkit-box-shadow: 0px 14px 30px -15px rgba(0, 0, 0, 0.75) !important;
   -moz-box-shadow: 0px 14px 30px -15px rgba(0, 0, 0, 0.75) !important;
   box-shadow: 0px 14px 30px -15px rgba(0, 0, 0, 0.75) !important;
@@ -417,9 +417,9 @@ form label {
 }
 
 .btn-primary {
-  background: #F94D0B;
+  background: #C1DC22;
   color: #fff;
-  border: 2px solid #F94D0B;
+  border: 2px solid #C1DC22;
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
   background: #97c95d !important;
@@ -427,11 +427,11 @@ form label {
 }
 .btn-primary.btn-outline {
   background: transparent;
-  color: #F94D0B;
-  border: 2px solid #F94D0B;
+  color: #C1DC22;
+  border: 2px solid #C1DC22;
 }
 .btn-primary.btn-outline:hover, .btn-primary.btn-outline:focus, .btn-primary.btn-outline:active {
-  background: #F94D0B;
+  background: #C1DC22;
   color: #fff;
 }
 
@@ -561,7 +561,7 @@ form label {
 .form-control:active, .form-control:focus {
   outline: none;
   box-shadow: none;
-  border-color: #F94D0B;
+  border-color: #C1DC22;
 }
 
 .row-pb-md {
